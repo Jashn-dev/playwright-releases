@@ -1,0 +1,11 @@
+{
+  "name": "playwright-1-60-examples",
+  "version": "1.0.0",
+  "description": "Live code examples from the TestDino Playwright 1.60 release guide.",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.60.0"
+  }
+}
